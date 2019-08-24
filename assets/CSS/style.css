@@ -1,0 +1,12 @@
+body {
+    background-color: rgba(34, 214, 238, 0.945);
+}
+.jumbotron {
+    background-image: url("../images/thomastrain.jpeg");
+    background-position: bottom;
+}
+.card-header {
+    /* background-color: #38ADB7; */
+    background-image: url("../images/blue-pexels.jpeg");
+    color: #fff;
+}
