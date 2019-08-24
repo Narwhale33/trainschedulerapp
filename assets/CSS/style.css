@@ -2,7 +2,7 @@ body {
     background-color: rgba(34, 214, 238, 0.945);
 }
 .jumbotron {
-    background-image: url("../images/thomastrain.jpeg");
+    background-image: url("/assets/images/thomastrain.jpeg");
     background-position: bottom;
 }
 .card-header {
